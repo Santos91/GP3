@@ -1,0 +1,5 @@
+C:\Users\Santos\Documents\Games Programming 3\Coursework\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Students\Coursework\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Santos\Documents\University\Games Programming 3\Coursework\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Santos\Desktop\Coursework (camera)\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Santos\Google Drive\Coursework (camera)\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
